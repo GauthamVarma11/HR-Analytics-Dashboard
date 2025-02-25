@@ -7,10 +7,16 @@ DAX (Data Analysis Expressions) – Custom measures and aggregations
 Python (Pandas, NumPy, Matplotlib) – Data preprocessing and trend analysis
 
 ## Key Features
-Attrition Analysis – Breakdown by age, job role, salary, and experience
-Salary & Workforce Trends – Identify compensation gaps and risk areas
-Dynamic Insights – Drill-through reports and interactive filters
-Optimized Performance – Pre-aggregated data models for faster analytics
+## Workforce Overview
+1) Displays the total number of employees (1,470) and attrition statistics (237 employees, 16.1% attrition rate)
+Salary & Experience Analysis – Avg. salary of $6.5K, avg. experience 7 years
+2) Attrition Analysis
+By Age Group – Highest attrition in the 26-35 age range (606 employees)
+By Education Field – Life Sciences & Medical backgrounds have the highest attrition rates
+By Salary Slab – Employees earning ≤ $5K have the highest attrition (749 employees), indicating compensation may be a key driver
+3) Job Role Insights
+Sales Executives, Research Scientists, and Lab Technicians experience the highest turnover
+Attrition by Years at Company – Peak attrition occurs within the first 5 years, suggesting a need for early engagement strategies
 
 ## Methodology & Approach
 ## Data Cleaning & Transformation:
